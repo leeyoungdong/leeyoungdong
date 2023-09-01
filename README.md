@@ -11,7 +11,7 @@
 <span align="center">	
 <pre style="margin: 0 100px 0 100px;">
   <code>
-    오류 삽질하고, 머리뜯으며 밤새고, 카페인 과다복용일때 결국 내것으로 남는다.
+   When I'm digging for errors, staying up all night tearing out my hair, and overdosing on caffeine, it ends up being mine.
     </code>
 </pre>
 </span>
